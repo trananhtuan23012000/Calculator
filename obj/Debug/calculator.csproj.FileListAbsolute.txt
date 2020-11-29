@@ -1,0 +1,52 @@
+C:\Users\Mr. Right\Documents\OOP\calculator\bin\Debug\calculator.exe.config
+C:\Users\Mr. Right\Documents\OOP\calculator\bin\Debug\calculator.exe
+C:\Users\Mr. Right\Documents\OOP\calculator\bin\Debug\calculator.pdb
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Form2.resources
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.exe
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.pdb
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Form3.resources
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Form4.resources
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Form5.resources
+C:\Users\Mr. Right\Documents\OOP\calculator\obj\Debug\calculator.Form6.resources
+C:\Users\Mr. Right\Desktop\calculator\bin\Debug\calculator.exe.config
+C:\Users\Mr. Right\Desktop\calculator\bin\Debug\calculator.exe
+C:\Users\Mr. Right\Desktop\calculator\bin\Debug\calculator.pdb
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Form2.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Form3.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Form4.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Form5.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Form6.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.exe
+C:\Users\Mr. Right\Desktop\calculator\obj\Debug\calculator.pdb
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\calculator.exe.config
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\calculator.exe
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\calculator.pdb
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Form2.resources
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.exe
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.pdb
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Form3.resources
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\MathNet.Numerics.dll
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\MathNet.Numerics.xml
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Form4.resources
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.csproj.CopyComplete
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Painter.resources
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\AForge.Math.dll
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\AForge.dll
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\AForge.Math.xml
+C:\Users\Tuan\source\repos\Calculator\bin\Debug\AForge.xml
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Form5.resources
+C:\Users\Tuan\source\repos\Calculator\obj\Debug\calculator.Form6.resources
